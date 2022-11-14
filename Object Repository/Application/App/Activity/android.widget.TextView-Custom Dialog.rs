@@ -4,6 +4,13 @@
    <name>android.widget.TextView-Custom Dialog</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'android.widget.TextView' and (text() = 'Custom Dialog' or . = 'Custom Dialog') and @resource-id = 'android:id/text1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -11,13 +18,15 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
+      <webElementGuid>3412652f-58b3-4c00-beb6-99fe214e1c33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>instance</name>
       <type>Main</type>
       <value>2</value>
+      <webElementGuid>3ba656bf-6554-4163-959d-62977b1af2a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -25,6 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Custom Dialog</value>
+      <webElementGuid>6f013d57-1940-412b-ba1a-5dd1a1504821</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,6 +42,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>android:id/text1</value>
+      <webElementGuid>191d5c2b-1d5d-4994-8425-fff8098cf1b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,6 +50,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.hmh.api</value>
+      <webElementGuid>7cceff75-ab4b-499a-82d9-1bc721da4124</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,6 +58,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>c0a5f67b-5ab3-4ddb-8b0a-3d46e82527dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,6 +66,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>0d81392a-469d-4074-b03c-ca3c553f27db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,6 +74,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>f54b8523-0a64-4387-a936-3c8ca568cf34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,6 +82,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>10ea0945-960c-4da5-9bfe-fcfd112af8af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,6 +90,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>4ea0fcfe-7687-4c83-b142-d46b0e612af3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,6 +98,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>6f870e01-d981-4813-8cd7-833cb11d8095</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,6 +106,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>acdb4b86-8420-4a58-9ed7-5641a1bfe648</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,6 +114,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>2bcc51e3-b759-4d28-b3b5-c1b69edad71c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,6 +122,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>f30bb12f-7148-4ca0-9719-e002e09bb00d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,6 +130,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>5593d856-3891-4bfd-8635-4b3adeee6c08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,6 +138,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>6017144e-3ee6-4e7b-b530-433f962b372f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,6 +146,7 @@
       <name>y</name>
       <type>Main</type>
       <value>339</value>
+      <webElementGuid>29c1b12b-da81-4e35-adfe-3b7c40eac88b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -130,6 +154,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1440</value>
+      <webElementGuid>478fa5d5-044b-489c-8047-bc3dec866fb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -137,6 +162,7 @@
       <name>height</name>
       <type>Main</type>
       <value>126</value>
+      <webElementGuid>9bce33f5-01a8-4bf6-8a99-bece33b1d488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -144,5 +170,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.ListView[1]/android.widget.TextView[2]</value>
+      <webElementGuid>779897cb-8c7f-4332-823c-be40b29ddf16</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

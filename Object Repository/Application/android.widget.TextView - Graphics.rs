@@ -4,6 +4,13 @@
    <name>android.widget.TextView - Graphics</name>
    <tag></tag>
    <elementGuidId>78d17753-8e88-4a27-b6c7-a8ab199a8dff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'android.widget.TextView' and (text() = 'Graphics' or . = 'Graphics') and @resource-id = 'android:id/text1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -11,13 +18,15 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
+      <webElementGuid>ce6e1619-cf0c-4504-961b-fbbcef4cd2bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>instance</name>
       <type>Main</type>
       <value>5</value>
+      <webElementGuid>1501cf93-7337-4aa8-b4c3-3ff830113657</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -25,6 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Graphics</value>
+      <webElementGuid>f37fdc01-16f5-45cb-b0d2-4bc6c7214334</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,6 +42,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>android:id/text1</value>
+      <webElementGuid>16f798c3-8d7b-4f14-8d30-65b1a3eb316c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,6 +50,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.hmh.api</value>
+      <webElementGuid>a623c359-faf7-499b-9dc9-1d839689d4eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,6 +58,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>0d2b4171-3cb0-4414-a1fb-866836cf689f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,6 +66,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>5ff89978-a597-4b97-a501-3058f1b705af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,6 +74,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>e5cc385e-6497-4646-8973-bed75e6bd2eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,6 +82,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>025302bf-168e-4dc6-8c6b-084f4b70cd50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,6 +90,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>50fd1f99-1127-4204-8cf6-b4d6b111a038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,6 +98,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>b1e3d5d6-dc3a-4724-ace5-301223c0179a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,6 +106,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>9293cbd2-4968-4f39-9c9a-e97394303327</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,6 +114,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>6272ce29-30a2-4a47-94fe-cc0742eb83db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,6 +122,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>0e994a4a-f6d9-4b5a-8390-c46068d435e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,6 +130,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>73d2f3c0-ad96-44ec-ac30-8aa4f7bf028e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,6 +138,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
+      <webElementGuid>9791849f-ca7a-4cc0-8128-9576e614c2cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -123,6 +146,7 @@
       <name>y</name>
       <type>Main</type>
       <value>726</value>
+      <webElementGuid>91f737c4-db8c-45e4-95b2-4ee94b510923</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -130,6 +154,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1440</value>
+      <webElementGuid>f00e79c4-7461-4da2-9e6d-19f5b356a40d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -137,5 +162,6 @@
       <name>height</name>
       <type>Main</type>
       <value>126</value>
+      <webElementGuid>01b8521c-1ea1-4bad-95b1-cb0e35b16df1</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
